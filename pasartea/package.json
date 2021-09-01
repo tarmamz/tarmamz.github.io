@@ -1,6 +1,7 @@
 {
     "name": "rmmz-game",
     "main": "index.html",
+    "js-flags": "--expose-gc",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
         "title": "RTP World: Pasartea Proba",
